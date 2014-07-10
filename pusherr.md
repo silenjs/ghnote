@@ -17,7 +17,7 @@
  fatal: Could not read from remote repository.   
  Please make sure you have the correct access rights and the repository exists.
 
-** remote add**   
+**remote add**   
 >$ git remote add github4silenjs git@github4silenjs:silenjs/ghonte.git
 
 **remote**   
